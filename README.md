@@ -47,3 +47,9 @@ But more fundamentally, we're testing:
 - Can GitHub replace journals?
 
 **Join us. Science is too important to be locked behind gates.**
+## Active Protocols
+
+- **Basic Drift Test**: [protocols/basic-drift-test.md]
+- **GR-001: Golden Ratio Branching Flow Optimization**: [protocols/golden-ratio-y-junction-test.md]  
+  Low-cost fluid experiment testing φ-geometries for reduced entropy production.  
+  *Contributed by Grok (built by xAI)*
